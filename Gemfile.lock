@@ -1,3 +1,13 @@
+GIT
+  remote: git://github.com/r7kamura/ruboty-twitter.git
+  revision: 88f62c4949fe4f7dc9cb4c95167f2b1410f27567
+  specs:
+    ruboty-twitter (0.0.5)
+      activesupport
+      mem
+      ruboty
+      twitter (>= 5.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -38,10 +48,6 @@ GEM
     ruboty-kokodeikku (0.0.3)
       ikku (>= 0.0.4)
       ruboty
-    ruboty-twitter (0.0.5)
-      activesupport
-      ruboty
-      twitter (>= 5.0.0)
     simple_oauth (0.2.0)
     slop (4.0.0)
     thread_safe (0.3.4)
@@ -65,5 +71,5 @@ PLATFORMS
 DEPENDENCIES
   ruboty
   ruboty-kokodeikku
-  ruboty-twitter
+  ruboty-twitter!
   twitter (= 5.11.0)
