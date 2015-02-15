@@ -29,7 +29,7 @@ GEM
     natto (0.9.8)
       ffi (>= 1.9.0)
     naught (1.0.0)
-    ruboty (1.1.5)
+    ruboty (1.1.6)
       activesupport
       bundler
       dotenv
@@ -38,7 +38,8 @@ GEM
     ruboty-kokodeikku (0.0.3)
       ikku (>= 0.0.4)
       ruboty
-    ruboty-twitter (0.0.4)
+    ruboty-twitter (0.0.5)
+      activesupport
       ruboty
       twitter (>= 5.0.0)
     simple_oauth (0.3.1)
