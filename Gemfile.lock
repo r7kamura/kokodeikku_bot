@@ -63,6 +63,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ruboty
   ruboty-kokodeikku
   ruboty-twitter
