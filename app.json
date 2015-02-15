@@ -1,0 +1,23 @@
+{
+  "description": "Find ikku from twitter timeline.",
+  "env": {
+    "BUILDPACK_URL": {
+      "description": "Buildpack URL",
+      "value": "https://github.com/diasks2/heroku-buildpack-mecab"
+    },
+    "TWITTER_ACCESS_TOKEN": {
+      "description": "Twitter access token with read & write permission"
+    },
+    "TWITTER_ACCESS_TOKEN_SECRET": {
+      "description": "Twitter access token secret"
+    },
+    "TWITTER_CONSUMER_KEY": {
+      "description": "Twitter consumer key"
+    },
+    "TWITTER_CONSUMER_SECRET": {
+      "description": "Twitter consumer secret"
+    }
+  },
+  "keywords": ["bot", "twitter", "ここで一句"],
+  "name": "kokodeikku-bot"
+}
