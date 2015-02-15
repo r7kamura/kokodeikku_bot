@@ -8,6 +8,7 @@ module Ruboty::HTTPd
 end
 Ruboty::Robot.send :include, Ruboty::HTTPd
 
+require "ruboty/twitter"
 robot = Ruboty::Robot.new
 puts Ruboty::AdapterBuilder.adapter_classes
 
