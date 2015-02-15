@@ -1,1 +1,1 @@
-bot: bundle exec ruboty
+web: bundle exec ruboty
