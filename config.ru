@@ -6,7 +6,7 @@ module Ruboty::HTTPd
     [200, {'Content-type' => 'text/html'}, ['<!DOCTYPE html><meta charset="UTF-8">']]
   end
 end
-Ruboty::Robot.include(Ruboty::HTTPd)
+Ruboty::Robot.send :include, Ruboty::HTTPd
 
 robot = Ruboty::Robot.new
 puts Ruboty::AdapterBuilder.adapter_classes
