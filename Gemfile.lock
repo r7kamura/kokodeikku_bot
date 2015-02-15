@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/r7kamura/ruboty-twitter.git
-  revision: 88f62c4949fe4f7dc9cb4c95167f2b1410f27567
+  revision: 6a951c3af98c47f199c93a9429bced70f1c9d100
   specs:
-    ruboty-twitter (0.0.5)
+    ruboty-twitter (0.0.6)
       activesupport
       mem
       ruboty
@@ -39,7 +39,7 @@ GEM
     natto (0.9.8)
       ffi (>= 1.9.0)
     naught (1.0.0)
-    ruboty (1.1.6)
+    ruboty (1.1.7)
       activesupport
       bundler
       dotenv
