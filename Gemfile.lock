@@ -35,7 +35,7 @@ GEM
       dotenv
       mem
       slop (>= 4.0.0)
-    ruboty-kokodeikku (0.0.3)
+    ruboty-kokodeikku (0.0.4)
       ikku (>= 0.0.4)
       ruboty
     ruboty-twitter (0.0.5)
