@@ -38,8 +38,9 @@ GEM
     ruboty-kokodeikku (0.0.4)
       ikku (>= 0.0.4)
       ruboty
-    ruboty-twitter (0.0.5)
+    ruboty-twitter (0.0.7)
       activesupport
+      mem
       ruboty
       twitter (>= 5.0.0)
     simple_oauth (0.3.1)
