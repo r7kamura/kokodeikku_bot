@@ -18,7 +18,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
-    ikku (0.0.7)
+    ikku (0.0.8)
       natto
     json (1.8.2)
     mem (0.1.5)
