@@ -18,7 +18,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
-    ikku (0.0.9)
+    ikku (0.1.1)
       natto
     json (1.8.2)
     mem (0.1.5)
@@ -35,8 +35,8 @@ GEM
       dotenv
       mem
       slop (>= 4.0.0)
-    ruboty-kokodeikku (0.0.4)
-      ikku (>= 0.0.4)
+    ruboty-kokodeikku (0.0.5)
+      ikku (>= 0.1.1)
       ruboty
     ruboty-twitter (0.0.8)
       activesupport
