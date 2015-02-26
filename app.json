@@ -11,6 +11,10 @@
     "TWITTER_ACCESS_TOKEN_SECRET": {
       "description": "Twitter access token secret"
     },
+    "TWITTER_AUTO_FOLLOW_BACK": {
+      "description": "Pass 1 to follow back followers",
+      "value": "1"
+    },
     "TWITTER_CONSUMER_KEY": {
       "description": "Twitter consumer key"
     },
