@@ -5,6 +5,17 @@
       "description": "Buildpack URL",
       "value": "https://github.com/diasks2/heroku-buildpack-mecab"
     },
+    "LOG_LEVEL": {
+      "description": "Log level for debugging",
+      "value": "0"
+    },
+    "MECAB_PATH": {
+      "description": "MeCab path",
+      "value": "/app/vendor/mecab/lib/libmecab.so"
+    },
+    "RUBOTY_NAME": {
+      "description": "Bot name"
+    },
     "TWITTER_ACCESS_TOKEN": {
       "description": "Twitter access token with read & write permission"
     },
