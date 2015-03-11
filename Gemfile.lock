@@ -9,6 +9,8 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.3.7)
     buftok (0.2.0)
+    chrono (0.0.4)
+      activesupport
     dotenv (2.0.0)
     equalizer (0.0.9)
     faraday (0.9.1)
@@ -36,6 +38,10 @@ GEM
       dotenv
       mem
       slop
+    ruboty-cron (1.0.0)
+      activesupport
+      chrono
+      ruboty (>= 0.2.0)
     ruboty-kokodeikku (0.0.8)
       ikku (>= 0.1.1)
       ruboty
@@ -66,5 +72,6 @@ PLATFORMS
 
 DEPENDENCIES
   rake
+  ruboty-cron
   ruboty-kokodeikku
   ruboty-twitter
