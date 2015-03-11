@@ -1,1 +1,3 @@
-#<Ruboty::Handlers::Bundler::Gems:0x007f826894a768>
+source "https://rubygems.org"
+
+gem "ruboty-echo"
