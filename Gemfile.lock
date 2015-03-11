@@ -75,6 +75,6 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruboty-cron
-  ruboty-echo
+  ruboty-echo (>= 0.0.1)
   ruboty-kokodeikku
   ruboty-twitter
