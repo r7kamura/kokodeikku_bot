@@ -42,6 +42,8 @@ GEM
       activesupport
       chrono
       ruboty (>= 0.2.0)
+    ruboty-echo (0.1.0)
+      ruboty
     ruboty-kokodeikku (0.0.8)
       ikku (>= 0.1.1)
       ruboty
@@ -73,5 +75,6 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruboty-cron
+  ruboty-echo
   ruboty-kokodeikku
   ruboty-twitter
