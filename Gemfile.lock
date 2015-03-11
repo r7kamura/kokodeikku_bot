@@ -35,8 +35,6 @@ GEM
       dotenv
       mem
       slop
-    ruboty-echo (0.1.0)
-      ruboty
     ruboty-kokodeikku (0.0.8)
       ikku (>= 0.1.1)
       ruboty
@@ -66,6 +64,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ruboty-echo
   ruboty-kokodeikku
   ruboty-twitter
