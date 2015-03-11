@@ -1,7 +1,1 @@
-source "https://rubygems.org"
-
-gem "ruboty-kokodeikku"
-gem "ruboty-twitter"
-gem "rake"
-gem "ruboty-cron"
-gem "ruboty-echo", ">= 0.0.1"
+#<Ruboty::Handlers::Bundler::Gems:0x007f826894a768>
