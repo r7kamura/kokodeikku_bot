@@ -5,6 +5,14 @@
       "description": "Buildpack URL",
       "value": "https://github.com/diasks2/heroku-buildpack-mecab"
     },
+    "KOKODEIKKU_PREFIX": {
+      "description": "Prefix",
+      "value": "ここで一句:"
+    },
+    "KOKODEIKKU_RULE": {
+      "description": "Song rule",
+      "value": "5,7,5"
+    },
     "LOG_LEVEL": {
       "description": "Log level for debugging",
       "value": "0"
@@ -14,7 +22,7 @@
       "value": "/app/vendor/mecab/lib/libmecab.so"
     },
     "RUBOTY_NAME": {
-      "description": "Bot name"
+      "description": "Bot name (should be same with account ID if you use it on twitter)"
     },
     "TWITTER_ACCESS_TOKEN": {
       "description": "Twitter access token with read & write permission"
